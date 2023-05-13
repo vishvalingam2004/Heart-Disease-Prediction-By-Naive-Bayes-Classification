@@ -6,6 +6,6 @@ and preprocessing the machine learning model is finally built for good predictio
 # LIBRARY
 PANDAS,NUMPY,SEABORN,CONFUSION_MATRIX,NAIVE_BAYES,MATPLOTLIB.PYPLOT
 # CONCLUSION
-By accessing this repo,user get good knowlegde and insights regarding Logistic Regression machine learning algorithm while accessing in these live domain datasets.
+By accessing this repo,user get good knowlegde and insights regarding Naive-Bayes Classification machine learning algorithm while accessing in these live domain datasets.
 # MODEL USED
 Here naive bayes classification algorithm is used for prediction.
